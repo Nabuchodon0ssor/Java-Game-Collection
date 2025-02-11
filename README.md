@@ -1,6 +1,6 @@
 Minesweeper
 
-Welcome to the Minesweeper project! This is a classic Minesweeper game implemented in Java (using JavaFX for Frontend). 
+Welcome to the Minesweeper project! This is a classic Minesweeper game implemented in Java, with JavaFX used for the frontend.
 The goal of the game is to clear a rectangular board containing hidden "mines" without detonating any of them. 
 The game provides a simple yet challenging experience, perfect for both casual and strategic players.
 
